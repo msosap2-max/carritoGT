@@ -138,16 +138,3 @@ src/main/java/org/umg/carritogt/
 ```
 
 Cada tabla se representa con una entidad (la ficha de datos), un repositorio (acceso a la base) y un controlador (los endpoints).
-
-## Estado del proyecto
-
-Terminado:
-
-- CRUD de productos
-- Inicio de sesión con token JWT
-
-Pendiente:
-
-- CRUD de usuarios
-- Órdenes y detalle de órdenes
-- Protección de los endpoints con el token
